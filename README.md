@@ -7,8 +7,7 @@
 ---
 
 ## Overview
-A comparative study replicating and extending the work of Anakal et al. (IEEE ICIICS 2023).
-We implement 8 supervised ML models for phishing URL detection across two datasets.
+This study replicates and extends the work of Anakal et al. (IEEE ICIICS 2023) by implementing eight supervised machine learning models for phishing URL detection across two datasets.
 
 ---
 
