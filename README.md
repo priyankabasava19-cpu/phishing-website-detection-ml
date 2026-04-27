@@ -108,4 +108,4 @@ python phishing_model.py
 ## Technologies Used
 - **Language:** Python 3.9+
 - **Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn, xgboost
-- **Environment:** macOS / UCF Eustis Server
+- **Environment:** macOS
